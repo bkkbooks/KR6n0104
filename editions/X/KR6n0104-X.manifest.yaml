@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6n0104/X/v1
+canonical_location: https://kanripo.org/bkk/KR6n0104/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 百法明門論纂
+  identifiers:
+    krp: KR6n0104
+    cbeta: X48n0803
+    cbeta_old_id: X48n0803
+    authorityid: CA0000146
+    json_key: X0803
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0803.xml
+    old_id: X48n0803
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0104_000-X.yaml, hash: 'sha256:52ae9102ca9da369bdd8212b2782a989e6eeb7a1744ef789c9a0285c7a9e0418'}
+  - {seq: 1, filename: KR6n0104_001-X.yaml, hash: 'sha256:de918f682b1bc1ddd80246701d812aa0f20eb73b7eb2fcac5ae13d98cb9d3420'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0104_000-X.markers.yaml, hash: 'sha256:21d589f931bd770dc806257b99f7251fe4a56c67bc94ec17f35204c5a9e095fa'}
+  - {seq: 1, role: markers, filename: assets/KR6n0104_001-X.markers.yaml, hash: 'sha256:65bec3cf2f2fb254c51b35b97aff3d8b197b467939b1f9428be451d1c31775b2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 803-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-2
+    span:
+    - front
+    - 236
+    - 236
+  label: No. 803-B 大乘百法規矩纂釋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-3
+    span:
+    - front
+    - 685
+    - 685
+  label: No. 803-C 題百法明門八識規矩纂釋後
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-4
+    span:
+    - front
+    - 1119
+    - 1119
+  label: No. 803-D 百法規矩纂釋後敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-5
+    span:
+    - front
+    - 1491
+    - 1491
+  label: 大乘百法明門論纂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0104_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18515
+  label: 大乘百法明門論
+  type: juan
+  level: 1
+hash: sha256:84f8636c403327a271217c99e5eefc351737f721436e57d3386649eb192bb8a0

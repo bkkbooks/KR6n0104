@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR6n0104/v1
+canonical_location: https://kanripo.org/bkk/KR6n0104/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 百法明門論纂
+  identifiers:
+    alt_id:
+    - X48n0803
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X48/X48n0803.xml
+    old_id: X48n0803
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0104_000.yaml, hash: 'sha256:3e17e4591a97dfc0dc7c3678d348a65d969e0ea8ad27e9c3ec60974a31ca4284'}
+  - {seq: 1, filename: KR6n0104_001.yaml, hash: 'sha256:baeb60b5597ed30ce18b522e37776ae3105f6a4ec11a923fe440d7f0522beb40'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0104_000.markers.yaml, hash: 'sha256:3f5566f90a26bd3c9da3d8b1478039d1bac58fa6a5406fafe2ac2cfc810ea33a'}
+  - {seq: 1, role: markers, filename: assets/KR6n0104_001.markers.yaml, hash: 'sha256:0bf117ceaff60cb1308d5f4f58dc599c6495900bd2359c27f52ccca54bf4598c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 803-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-2
+    span:
+    - front
+    - 236
+    - 236
+  label: No. 803-B 大乘百法規矩纂釋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-3
+    span:
+    - front
+    - 685
+    - 685
+  label: No. 803-C 題百法明門八識規矩纂釋後
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-4
+    span:
+    - front
+    - 1119
+    - 1119
+  label: No. 803-D 百法規矩纂釋後敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6n0104_X_000-mulu-5
+    span:
+    - front
+    - 1491
+    - 1491
+  label: 大乘百法明門論纂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0104_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18515
+  label: 大乘百法明門論
+  type: juan
+  level: 1
+hash: sha256:c5d15a64e7b4d483d00b55ac4a4f1ab961faf425de8a072d7fc851115590d281
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
