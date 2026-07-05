@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0104_000.yaml, hash: 'sha256:3e17e4591a97dfc0dc7c3678d348a65d969e0ea8ad27e9c3ec60974a31ca4284'}
-  - {seq: 1, filename: KR6n0104_001.yaml, hash: 'sha256:baeb60b5597ed30ce18b522e37776ae3105f6a4ec11a923fe440d7f0522beb40'}
+  - {seq: 0, filename: KR6n0104_000.yaml, hash: 'sha256:52ae9102ca9da369bdd8212b2782a989e6eeb7a1744ef789c9a0285c7a9e0418'}
+  - {seq: 1, filename: KR6n0104_001.yaml, hash: 'sha256:de918f682b1bc1ddd80246701d812aa0f20eb73b7eb2fcac5ae13d98cb9d3420'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0104_000.markers.yaml, hash: 'sha256:3f5566f90a26bd3c9da3d8b1478039d1bac58fa6a5406fafe2ac2cfc810ea33a'}
-  - {seq: 1, role: markers, filename: assets/KR6n0104_001.markers.yaml, hash: 'sha256:0bf117ceaff60cb1308d5f4f58dc599c6495900bd2359c27f52ccca54bf4598c'}
+  - {seq: 0, role: markers, filename: assets/KR6n0104_000.markers.yaml, hash: 'sha256:4327f1202ca718b2ed96bab7ee02f2a536eeb7fd7afd1b308507975bf11ea977'}
+  - {seq: 1, role: markers, filename: assets/KR6n0104_001.markers.yaml, hash: 'sha256:360207e03e1ba4bfa8b2292ab8bbb542130c6ebed09b023c52a88bbc128c6510'}
 table_of_contents:
 - ref:
     seq: 0
@@ -87,7 +87,4 @@ table_of_contents:
   label: 大乘百法明門論
   type: juan
   level: 1
-hash: sha256:c5d15a64e7b4d483d00b55ac4a4f1ab961faf425de8a072d7fc851115590d281
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1157fc912dbb2e17dd5d102fb49d57fa1b2c348438c0c275afbb871917de3fe5
