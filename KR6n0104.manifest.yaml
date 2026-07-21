@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0104_000.yaml, hash: 'sha256:3e17e4591a97dfc0dc7c3678d348a65d969e0ea8ad27e9c3ec60974a31ca4284'}
+  - {seq: 0, filename: KR6n0104_000.yaml, hash: 'sha256:e9ab874fe04ce8d9bf43aa338d9d38a5700556129385f66e3a25bcfe9c9d1c22'}
   - {seq: 1, filename: KR6n0104_001.yaml, hash: 'sha256:76959a185d03ece87ac07ff9abda8d661aeea257f98eba3aedbb1786282e86e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0104_000.markers.yaml, hash: 'sha256:01ee40224475cf55e11c2080808654345c1bcaf673a35d0bf192f4856e815a9b'}
+  - {seq: 0, role: markers, filename: assets/KR6n0104_000.markers.yaml, hash: 'sha256:15a8b4ecf222c4a228bbed9757cc04b120ca629416e1cdc0d7710e3e6c900106'}
   - {seq: 1, role: markers, filename: assets/KR6n0104_001.markers.yaml, hash: 'sha256:9b29119c59ed963b22eda4c70053c6aba3c03592405f901769365bc712338844'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 803-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-2
     span:
-    - front
+    - body
     - 236
     - 236
   label: No. 803-B 大乘百法規矩纂釋序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-3
     span:
-    - front
+    - body
     - 685
     - 685
   label: No. 803-C 題百法明門八識規矩纂釋後
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-4
     span:
-    - front
+    - body
     - 1119
     - 1119
   label: No. 803-D 百法規矩纂釋後敘
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-5
     span:
-    - front
+    - body
     - 1491
     - 1491
   label: 大乘百法明門論纂
@@ -87,7 +87,7 @@ table_of_contents:
   label: 大乘百法明門論
   type: juan
   level: 1
-hash: sha256:89fb09291e81b929163b0ef48e3233cbc720935df3d2c3bd51be848bd18b7569
+hash: sha256:d0412c5c82f5a316b3b7238ddfd2d9312847623f86dddf6f86ac9ba0d7e1553f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

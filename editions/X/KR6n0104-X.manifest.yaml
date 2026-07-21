@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0104_000-X.yaml, hash: 'sha256:52ae9102ca9da369bdd8212b2782a989e6eeb7a1744ef789c9a0285c7a9e0418'}
+  - {seq: 0, filename: KR6n0104_000-X.yaml, hash: 'sha256:5e6f3dd47df35903b11df9b4ba2e15b14bcf96eb3ce62d1d230d47edd5800c45'}
   - {seq: 1, filename: KR6n0104_001-X.yaml, hash: 'sha256:de918f682b1bc1ddd80246701d812aa0f20eb73b7eb2fcac5ae13d98cb9d3420'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0104_000-X.markers.yaml, hash: 'sha256:21d589f931bd770dc806257b99f7251fe4a56c67bc94ec17f35204c5a9e095fa'}
+  - {seq: 0, role: markers, filename: assets/KR6n0104_000-X.markers.yaml, hash: 'sha256:30a0b6b7cc8616dd2754e47adfab691b62712a02afa51b50a19e809a591c1916'}
   - {seq: 1, role: markers, filename: assets/KR6n0104_001-X.markers.yaml, hash: 'sha256:65bec3cf2f2fb254c51b35b97aff3d8b197b467939b1f9428be451d1c31775b2'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 803-A
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-2
     span:
-    - front
+    - body
     - 236
     - 236
   label: No. 803-B 大乘百法規矩纂釋序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-3
     span:
-    - front
+    - body
     - 685
     - 685
   label: No. 803-C 題百法明門八識規矩纂釋後
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-4
     span:
-    - front
+    - body
     - 1119
     - 1119
   label: No. 803-D 百法規矩纂釋後敘
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6n0104_X_000-mulu-5
     span:
-    - front
+    - body
     - 1491
     - 1491
   label: 大乘百法明門論纂
@@ -85,4 +85,4 @@ table_of_contents:
   label: 大乘百法明門論
   type: juan
   level: 1
-hash: sha256:84f8636c403327a271217c99e5eefc351737f721436e57d3386649eb192bb8a0
+hash: sha256:593892edbb095bcf019556fdfa847bc68861b762d40907fd504aed8434c3c084
